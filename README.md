@@ -39,3 +39,7 @@ This project presents an optimized convolutional neural network (CNN) image clas
    ```bash
    python3 server_deep_vision.py
    ```
+
+## Demonstration
+
+Watch the project in action: [https://youtu.be/LkIkpS1hw5o](https://youtu.be/LkIkpS1hw5o)
