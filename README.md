@@ -42,4 +42,4 @@ This project presents an optimized convolutional neural network (CNN) image clas
 
 ## Demonstration
 
-Watch the project in action: [https://youtu.be/LkIkpS1hw5o](https://youtu.be/LkIkpS1hw5o)
+Watch the project in action: [https://youtu.be/LkIkpS1hw5o](https://youtu.be/N8_Houm--WY)
